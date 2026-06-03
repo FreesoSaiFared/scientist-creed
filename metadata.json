@@ -1,0 +1,6 @@
+{
+  "name": "A Journey Through Two Creeds",
+  "description": "An interactive philosophical SPA exploring and comparing scientific methodology, liturgical translations, and modern contemplative principles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
